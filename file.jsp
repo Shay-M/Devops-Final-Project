@@ -65,7 +65,7 @@
 
 //  Produce the dynamic portions of the web page.
 
-    if (Guess != 1)) {
+    if (Guess != (int) No) {
 %>
         <div class='guess'>
             <p>A random number between 0 and 100 (inclusive) has been selected.</p>
