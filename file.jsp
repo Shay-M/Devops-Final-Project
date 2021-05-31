@@ -9,7 +9,7 @@
     <link rel="stylesheet" media="screen" type="text/css" title="Preferred" href="number-guess.css"/>
     <title>JSP Number Guess</title>
 </head>
-<body>
+
 
     <h1>JSP Number Guess</h1>
 
