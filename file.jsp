@@ -7,14 +7,13 @@
     <meta http-equiv="Content-Type" content='text/html; charset=UTF-8'/>
     <meta http-equiv="Content-Style-Type" content="text/css"/>
     <link rel="stylesheet" media="screen" type="text/css" title="Preferred" href="number-guess.css"/>
-    <title>JSP Number Guess<title>
+    <title>JSP Number Guess</title>
 </head>
 <body>
 
     <h1>JSP Number Guess!</h1>
 
-    <div class='content'>
-<%
+
 //  Initialize.
 
     final HttpSession       Sess = request.getSession();
