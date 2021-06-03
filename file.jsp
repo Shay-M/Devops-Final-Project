@@ -13,7 +13,8 @@
 
     <h1>JSP Number Guess!</h1>
 
-
+    <div class='content'>
+<%
 //  Initialize.
 
     final HttpSession       Sess = request.getSession();
