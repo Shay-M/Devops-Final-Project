@@ -11,7 +11,7 @@
 </head>
 <body>
 
-    <h1>JSP Number Guess!</h1>
+    <h1>JSP Number Guess!!!</h1>
 
     <div class='content'>
 <%
