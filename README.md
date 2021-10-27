@@ -3,7 +3,7 @@ Final Project - Devops
 
 GIT:
 
-1.	Create/find a simple web application (jsp) (1)
+1.	Create simple web application (jsp) (1)
 2.	Store the code in new project on GitHub
 
 
